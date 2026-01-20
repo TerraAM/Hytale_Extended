@@ -1,0 +1,20 @@
+{
+  "Group": "AM_Group",
+  "Name": "Extendend_Items",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "AM",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "Test",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}
